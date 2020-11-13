@@ -1,0 +1,9 @@
+.DS_Store
+.history
+.idea
+*.pid
+*.jar
+*.gz
+*.bat
+*.db
+*.dat
